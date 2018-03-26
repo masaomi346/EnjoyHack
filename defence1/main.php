@@ -21,6 +21,7 @@ header("Content-Type: text/html; charset=UTF-8");
       <li><a href="/csrf1.php">CSRF</a></li>
       <li><a href="/dir.php?dir=a">ディレクトリトラバーサル</a></li>
       <li><a href="/eval1.php">evalインジェクション</a></li>
+      <li><a href="/upload1.php">ファイルアップロード</a></li>
     </ul>
   </body>
 </html>
