@@ -24,6 +24,7 @@ header("X-FRAME-OPTIONS: DENY");
       <li><a href="/dir.php?dir=a">ディレクトリトラバーサル</a></li>
       <li><a href="/eval1.php">evalインジェクション</a></li>
       <li><a href="/upload1.php">ファイルアップロード</a></li>
+      <li><a href="/http1.html">HTTPヘッダーインジェクション</a></li>
     </ul>
   </body>
 </html>
